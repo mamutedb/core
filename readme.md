@@ -16,3 +16,13 @@ Components:
 2. B-tree
 3. Pager
 4. OS interface
+
+
+
+
+
+## To Dev
+
+Compiler programm
+
+`gcc -Wall main.c -o mamute`
